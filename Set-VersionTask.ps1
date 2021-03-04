@@ -39,7 +39,7 @@ param (
     PS> Set-VersionTask.ps1 -projectFile c:\path\to\Project.csproj -assemblyVersion =.=.=.+
 
     .LINK
-    Repo: 
+    Repo: https://github.com/brenordv/msbuild-task-autoincrement-version
 #>
 
 
