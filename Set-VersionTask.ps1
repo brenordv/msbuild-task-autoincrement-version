@@ -1,5 +1,4 @@
-param (    
-    # name of the output image
+param (
     [string]$projectFile,
     [string]$assemblyVersion = '=.=.=.=',
     [string]$fileVersion = '=.=.=.=',
