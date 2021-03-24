@@ -1,6 +1,6 @@
 param (    
     # name of the output image
-    [string]$projectFile = 'Z:\dev\projects\dti_dot_round\DtiDotRound.Cli\DtiDotRound.Cli.csproj',
+    [string]$projectFile,
     [string]$assemblyVersion = '=.=.=.=',
     [string]$fileVersion = '=.=.=.=',
     [string]$packageVersion = '=.=.=.='
